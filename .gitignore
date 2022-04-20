@@ -1,0 +1,12 @@
+ui/package-lock.json
+.vs/slnx.sqlite
+.vs/GiantsDistricting/v16/.suo
+.vs/VSWorkspaceState.json
+.vscode/
+node_modules/
+ui/src/data/geojsons/districts/*
+ui/src/data/geojsons/districtings/*
+Spring/src/public.7z
+Backups/
+Spring/src/public/Files/districtings
+Spring/src/public/Files/Districtings.zip

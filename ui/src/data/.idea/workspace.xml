@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc882c39-bc67-4636-8343-6c1cfce8fb2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/districtings/Georgia-5000-Compressed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/ga.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/ga_county.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/incumbents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/mi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/mi_county.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/nc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/nc_county.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/og/ga.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/og/mi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geojsons/og/nc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precinct_data/incumbents.json" beforeDir="false" afterPath="$PROJECT_DIR$/precinct_data/incumbents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/aggregators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/district_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/districting_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/geojson_precinct_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/geojson_precinct_extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/job_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/measures.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/measures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/precinct_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/setup_districtings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/state_class.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JupyterTrust" id="95223b61-4345-4329-8808-2802cd5d994d" />
+  <component name="ProjectId" id="1rAuMpePO0qHPFRQIfDElX7oS9Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/gerrymandering-mcmc-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jrock\Documents\SBU\Classes\Y4S2\CSE416\GiantsDistricting\ui\src\data\scripts" />
+      <recent name="C:\Users\jrock\Documents\SBU\Classes\Y4S2\CSE416\GiantsDistricting\ui\src\data\districtings\ga" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jrock\Documents\SBU\Classes\Y4S2\CSE416\GiantsDistricting\ui\src\data\scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Python 3.7" type="PythonConfigurationType" factoryName="Python">
+      <module name="data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jrock\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/main.py" />
+      <option name="PARAMETERS" value="--state=mi" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python 3.7" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc882c39-bc67-4636-8343-6c1cfce8fb2c" name="Default Changelist" comment="" />
+      <created>1618431173922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618431173922</updated>
+      <workItem from="1618431178074" duration="20608000" />
+      <workItem from="1618454150904" duration="6998000" />
+      <workItem from="1618495750439" duration="6860000" />
+      <workItem from="1618511707674" duration="17121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618534810773">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1618534810773" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618436324258" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1618453843335" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1618541542214">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1618541542214" />
+    <state width="1237" height="123" key="GridCell.Tab.0.bottom" timestamp="1618541545851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1618541545851" />
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618511609273" />
+    <state width="1237" height="122" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618459592803" />
+    <state width="1237" height="123" key="GridCell.Tab.0.center" timestamp="1618541545851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1618541545851" />
+    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618511609273" />
+    <state width="1237" height="122" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618459592803" />
+    <state width="1237" height="123" key="GridCell.Tab.0.left" timestamp="1618541545851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1618541545851" />
+    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618511609272" />
+    <state width="1237" height="122" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618459592803" />
+    <state width="1237" height="123" key="GridCell.Tab.0.right" timestamp="1618541545851">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1618541545851" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618511609273" />
+    <state width="1237" height="122" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618459592803" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1618508911913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618508911913" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1618454352791" />
+    <state x="0" y="0" width="585" height="680" key="find.popup" timestamp="1618533743393">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="585" height="680" key="find.popup/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1618533743393" />
+    <state x="0" y="0" width="585" height="680" key="find.popup/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618431739286" />
+    <state x="0" y="0" width="585" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1618459521168" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1618451421687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1360.728@0.0.1280.680" timestamp="1618439425114" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1618451421687" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/precinct_combiner.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data$Python_3_7.coverage" NAME="Python 3.7 Coverage Results" MODIFIED="1618436376074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/data$setup_districtings.coverage" NAME="main Coverage Results" MODIFIED="1618534813253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+  </component>
+</project>

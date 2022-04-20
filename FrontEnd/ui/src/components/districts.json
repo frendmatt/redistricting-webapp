@@ -1,0 +1,131 @@
+{
+    "districts": [
+        {
+            "min": 1,
+            "25": 2,
+            "median": 3,
+            "75": 4,
+            "max": 6,
+            "enacted": 2,
+            "current": 3
+        },
+        {
+            "min": 2,
+            "25": 3,
+            "median": 5,
+            "75": 6,
+            "max": 7,
+            "enacted": 4,
+            "current": 3
+        },
+        {
+            "min": 2,
+            "25": 4,
+            "median": 5,
+            "75": 6,
+            "max": 7,
+            "enacted": 6,
+            "current": 5
+        },
+        {
+            "min": 4,
+            "25": 5,
+            "median": 7,
+            "75": 8,
+            "max": 10,
+            "enacted": 7,
+            "current": 6
+        },
+        {
+            "min": 3,
+            "25": 6,
+            "median": 7,
+            "75": 8,
+            "max": 11,
+            "enacted": 9,
+            "current": 8
+        },
+        {
+            "min": 5,
+            "25": 6,
+            "median": 8,
+            "75": 10,
+            "max": 11,
+            "enacted": 9,
+            "current": 10
+        },
+        {
+            "min": 7,
+            "25": 8,
+            "median": 9,
+            "75": 10,
+            "max": 11,
+            "enacted": 10,
+            "current": 11
+        },
+        {
+            "min": 8,
+            "25": 9,
+            "median": 10,
+            "75": 11,
+            "max": 12,
+            "enacted": 10,
+            "current": 11
+        },
+        {
+            "min": 9,
+            "25": 10,
+            "median": 11,
+            "75": 12,
+            "max": 13,
+            "enacted": 12,
+            "current": 13
+        },
+        {
+            "min": 12,
+            "25": 19,
+            "median": 20,
+            "75": 24,
+            "max": 29,
+            "enacted": 22,
+            "current": 23
+        },
+        {
+            "min": 10,
+            "25": 11,
+            "median": 12,
+            "75": 13,
+            "max": 14,
+            "enacted": 12,
+            "current": 14
+        },
+        {
+            "min": 11,
+            "25": 12,
+            "median": 13,
+            "75": 14,
+            "max": 15,
+            "enacted": 13,
+            "current": 14
+        },
+        {
+            "min": 14,
+            "25": 16,
+            "median": 17,
+            "75": 19,
+            "max": 20,
+            "enacted": 17,
+            "current": 16
+        },
+        {
+            "min": 17,
+            "25": 18,
+            "median": 19,
+            "75": 22,
+            "max": 23,
+            "enacted": 19,
+            "current": 18
+        }
+    ]
+    
+}
