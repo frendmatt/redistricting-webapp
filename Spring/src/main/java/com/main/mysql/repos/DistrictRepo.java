@@ -1,4 +1,4 @@
-package com.main.mysql.repos;
+/*package com.main.mysql.repos;
 
 import com.main.mysql.models.District;
 import com.main.mysql.models.ids.DistrictId;
@@ -21,4 +21,4 @@ public interface DistrictRepo extends JpaRepository<District, DistrictId>
 
     @Query(nativeQuery = true, value = "call get_minority_populations(:job_id,:minority_key")
     public Optional<List<Integer>> get_minority_populations(@Param("job_id") int job_id, @Param("minority_key") int minority_key);
-}
+}*/

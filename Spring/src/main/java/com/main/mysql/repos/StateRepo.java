@@ -1,4 +1,4 @@
-package com.main.mysql.repos;
+/*package com.main.mysql.repos;
 
 import com.main.enums.StateCode;
 import com.main.mysql.models.State;
@@ -8,4 +8,4 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface StateRepo extends JpaRepository<State, StateCode>
 {
-}
+}*/

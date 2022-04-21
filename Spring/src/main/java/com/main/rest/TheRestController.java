@@ -43,8 +43,8 @@ public class TheRestController
     @Autowired
     private final HttpSession httpSession = null;
 
-    @Autowired
-    private final TheService theService = null;
+    /*@Autowired
+    private final TheService theService = null;*/
 
     /*
     Things that are in the httpsession:
@@ -105,12 +105,12 @@ public class TheRestController
         return GeoFileManager.getPrecinctGeometry(stateCode);
     }
 
-    //Returns precinct info
+    /*//Returns precinct info
     @GetMapping(path = "/getPrecinctInfo/{precinct}", produces = "application/json")
     public Precinct getPrecinctInfo(@PathVariable("precinct") String precinct)
     {
         return theService.getPrecinctByName(precinct);
-    }
+    }*/
 
     @GetMapping(path = "/getDistrictInfo/{jobId}/{districting}/{district}", produces = "application/json")
     public DistrictFile getPrecinctInfo(@PathVariable("jobId") int jobid,@PathVariable("districting") int districtingId, @PathVariable("district") int district) throws IOException {

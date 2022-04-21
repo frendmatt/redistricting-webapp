@@ -1,4 +1,4 @@
-package com.main.mysql.repos;
+/*package com.main.mysql.repos;
 
 import com.main.mysql.models.Districting;
 import com.main.mysql.models.ids.DistrictingId;
@@ -15,4 +15,4 @@ public interface DistrictingRepo extends JpaRepository<Districting, DistrictingI
 {
     @Query(nativeQuery = true, value = "Select county from districting_split_counties_list where job_id=:job_id and districting_position_id:districting_position_id")
     public Optional<List<String>> splitCountiesList(@Param("job_id") int job_id, @Param("districting_position_id") int districting_position_id);
-}
+}*/

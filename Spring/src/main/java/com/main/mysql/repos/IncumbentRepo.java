@@ -1,4 +1,4 @@
-package com.main.mysql.repos;
+/*package com.main.mysql.repos;
 
 import com.main.mysql.models.ids.IncumbentId;
 import com.main.mysql.models.Incumbent;
@@ -8,4 +8,4 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface IncumbentRepo extends JpaRepository<Incumbent, IncumbentId>
 {
-}
+}*/

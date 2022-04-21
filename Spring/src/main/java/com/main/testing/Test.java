@@ -11,7 +11,7 @@ import com.main.fileserver.DistrictingFileManager;
 import com.main.fileserver.JobManager;
 import com.main.helper.PrintHelper;
 import com.main.mysql.models.*;
-import com.main.mysql.repos.*;
+/*import com.main.mysql.repos.*;*/
 import com.main.fileserver.models.CountyFile;
 import com.main.fileserver.models.DistrictFile;
 import com.main.fileserver.models.DistrictingFile;
@@ -32,7 +32,7 @@ public class Test
 {
     //This will run every startup of the server
     @Bean
-    CommandLineRunner commandLineRunner(CountyRepo countyRepo, DistrictingRepo districtingRepo, DistrictRepo districtRepo, JobRepo jobRepo, PrecinctRepo precinctRepo, StateRepo stateRepo, IncumbentRepo incumbentRepo)
+    CommandLineRunner commandLineRunner(/*CountyRepo countyRepo, DistrictingRepo districtingRepo, DistrictRepo districtRepo, JobRepo jobRepo, PrecinctRepo precinctRepo, StateRepo stateRepo, IncumbentRepo incumbentRepo*/)
     {
         return args ->
         {
