@@ -1,0 +1,4 @@
+### FrontEnd ###
+- Pull out constants into a config
+- Modularize states
+    - pull out there info into big info json's that will be loaded in automatically and build the states that way, such that any info can be provided and the program will work

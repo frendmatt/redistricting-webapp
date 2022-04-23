@@ -16,7 +16,7 @@ class ConstraintsTab extends Component {
                             <InputLabel id = "dropdown-label">
                                 { "Select A State" }
                             </InputLabel>
-                            <Select  value = { this.props.stateDropDown } onChange = { (e) => { this.props.goToStateSelect(); this.props.setStateDropDown(e.target.value); this.props.stateChange(e.target.value === "North Carolina" ? 0 : e.target.value === "Michigan" ? 1 : 2)} } labelId = "dropdown-label"> 
+                            <Select  value = { this.props.stateDropDown } onChange = { (e) => { this.props.goToStateSelect(); this.props.setStateDropDown(e.target.value); this.props.stateChange(e.target.value === "North Carolina" ? 'nc' : e.target.value === "Michigan" ? 'mi' : 'ga')} } labelId = "dropdown-label"> 
                                 <MenuItem value = { "North Carolina" }>
                                     { "North Carolina" }
                                 </MenuItem>
